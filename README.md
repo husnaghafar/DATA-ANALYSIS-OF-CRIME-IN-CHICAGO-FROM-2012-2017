@@ -21,3 +21,7 @@ Original dataset from Kaggle:
 - seaborn
 - matplotlib
 - jupyter
+
+## 📄 Report
+A full written report is included in the `/report` folder
+
